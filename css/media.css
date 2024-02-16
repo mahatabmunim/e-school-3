@@ -1,0 +1,167 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+
+/* header start */
+header {
+  padding: 0;
+}
+.logo {
+  width: 140px;
+}
+.manu ul li a {
+  margin-bottom: 5px;
+  padding: 0 10px !important;
+}
+.btn_sign {
+  margin-left: 5px;
+}
+/* banner start  */
+.banner {
+  padding: 10px 0 50px;
+}
+.b_content{
+  text-align: center;
+}
+.b_h1{
+  padding: 0;
+  font-size: 30px;
+  line-height: 50px;
+}
+.b_p2 {
+  padding: 0 10px 0;
+}
+.b_img img {
+  margin-bottom: 30px;
+  padding: 0;
+}
+/* feature start  */
+.feature{
+  padding: 0 0 60px;
+}
+.f_item{
+  margin: 35px 0 0;
+  padding: 45px 0 40px;
+}
+.f_img{
+  width: 65px;
+  height: 70;
+}
+.f_h2{
+  font-size: 20px;
+  line-height: 30px;
+}
+
+
+
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+/* header start */
+header {
+  padding: 0;
+}
+.logo {
+  width: 190px;
+}
+.manu ul li a {
+  margin-bottom: 5px;
+  padding: 0 10px !important;
+}
+.btn_sign {
+  margin-left: 5px;
+}
+/* banner start  */
+.banner {
+  padding: 10px 0 50px;
+}
+.b_content{
+  text-align: center;
+}
+.b_h1{
+  padding: 0 50px 0;
+  font-size: 38px;
+  line-height: 55px;
+}
+.b_p2 {
+  padding: 0 35px 0;
+}
+.b_img img {
+  margin-bottom: 30px;
+  padding: 0 50px;
+}
+/* feature start  */
+.feature{
+  padding: 0 0 60px;
+}
+.f_item{
+  margin: 35px 0 0;
+  padding: 45px 0 40px;
+}
+.f_img{
+  width: 65px;
+  height: 70;
+}
+.f_h2{
+  font-size: 20px;
+  line-height: 30px;
+}
+
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/* header start */
+.manu ul li a {
+  margin-bottom: 5px;
+  padding: 0 10px !important;
+}
+.btn_sign {
+  margin-left: 5px;
+}
+/* banner start  */
+.b_content{
+  text-align: center;
+}
+.b_h1{
+  padding: 0 100px 0;
+}
+.b_p2 {
+  padding: 0 110px 0;
+}
+.b_img img {
+  margin-bottom: 30px;
+  padding: 0 50px;
+}
+/* feature start  */
+.feature{
+  padding: 0 0 80px;
+}
+
+ }
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) {
+    
+  }
+
+
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+/* banner start  */
+.b_h1 {
+  padding-right: 100px;
+}
+.b_p2 {
+  padding-right: 100px !important;
+}
+
+
+ }
